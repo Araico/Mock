@@ -1,1 +1,14 @@
 EDA/__pycache__/eda.cpython-313.pyc
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+
+# Envs
+.venv/
+.env
+.conda/
+*.env
+
+# Streamlit
+.streamlit/secrets.toml
